@@ -1,0 +1,17 @@
+{
+  "name": "gulp-builder",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Alex Zhang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sky198719/gulp-builder.git"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "bin": {
+    "gulp-builder": "index.js"
+  }
+}
